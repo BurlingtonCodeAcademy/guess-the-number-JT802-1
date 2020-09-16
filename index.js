@@ -14,5 +14,6 @@ async function start() {
   let secretNumber = await ask("What is your secret number?\nI won't peek, I promise...\n");
   console.log('You entered: ' + secretNumber);
   // Now try and complete the program.
+  // put new code for bootcamp here
   process.exit();
 }
