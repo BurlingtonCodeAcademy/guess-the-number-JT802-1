@@ -1,6 +1,5 @@
 //For "Guess the number" project: I want this function to allow user to choose between running the compGame (computer guesses) OR humanGame (human guesses).
 
-//The const readline boilerplate only appears ONCE in the merged file. All function names are written below that, before the first "async function". I need to remember that any instances of "await ask" can ONLY appear inside an async function.
 
 initialize();
 compGame();
